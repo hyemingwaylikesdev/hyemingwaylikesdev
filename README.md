@@ -1,6 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=좋아서%20하는%20개발&fontSize=90)
-<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Creative%20Developer%2C%20Problem%20Solver&fontSize=90)
 **hyemingwaylikesdev/hyemingwaylikesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
